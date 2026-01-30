@@ -79,7 +79,7 @@ export default function Home() {
       
 
       {/* TRUST 1 */}
-      <section className="pt-80 mx-auto max-w-5xl px-6">
+      <section className="pt-90 sm:pt-80 mx-auto max-w-5xl px-6">
         
         <div className="mx-auto md:mx-0 w-[40%] md:text-left text-center mb-6 md:mb-0">
           <h2 className="type-h1-sm tracking-[-0.04em] text-left">
