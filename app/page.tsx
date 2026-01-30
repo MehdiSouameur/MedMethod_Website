@@ -54,7 +54,7 @@ export default function Home() {
           </p>
 
             <a
-              href="#presentation"
+              href="#contact"
               className="
                 mt-8
                 py-2 px-5

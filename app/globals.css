@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+html{
+  scroll-behavior: smooth;
+}
+
 @utility underline-primary {
   @apply underline
     decoration-(--color-primary)
