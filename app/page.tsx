@@ -41,7 +41,7 @@ export default function Home() {
       <section className="relative pt-18 overflow-visible">
         <div className="mx-auto max-w-5xl px-6 flex flex-col justify-center items-center">
 
-            <h1 className="type-h1 tracking-[-0.04em] leading-[0.8] text-center sm:max-w-[80%]">
+            <h1 className="type-h1 tracking-[-0.04em] sm:leading-[0.8] text-center sm:max-w-[80%]">
               Sites internet clairs et fiables, pensés pour durer
             </h1>
 
@@ -79,7 +79,7 @@ export default function Home() {
       
 
       {/* TRUST 1 */}
-      <section className="sm:pt-80 pt-65 mx-auto max-w-5xl px-6">
+      <section className="sm:pt-80 pt-72 mx-auto max-w-5xl px-6">
         
         <div className="mx-auto md:mx-0 w-[40%] md:text-left text-center mb-6 md:mb-0">
           <h2 className="type-h1-sm tracking-[-0.04em] text-left">
