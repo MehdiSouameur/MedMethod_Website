@@ -42,7 +42,7 @@ export function CornerLine() {
   }, [inView]);
 
   return (
-    <div ref={ref} className="relative w-[40%] self-stretch">
+    <div ref={ref} className="relative w-[40%] sm:w-[46%] self-stretch">
       <span
         onTransitionEnd={() => setRightOn(true)}
         className={[

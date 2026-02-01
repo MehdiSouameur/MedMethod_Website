@@ -2,7 +2,7 @@ import "./globals.css";
 import { satoshi, sourceSans } from "./fonts";
 
 export const metadata = {
-  title: "Med Method",
+  title: "MedMethod",
   description: "Conception et développement de sites web performants.",
 };
 
